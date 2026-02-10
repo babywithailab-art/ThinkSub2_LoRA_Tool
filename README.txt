@@ -2,7 +2,9 @@
 
 
 👇🏻Youtube Link
-[![Watch the video](https://img.youtube.com/vi/FoOLdqJKcwU/maxresdefault.jpg)](https://youtu.be/FoOLdqJKcwU)
+## 🎬 Demo Video
+[![Watch the video](https://img.youtube.com/vi/FoOLdqJKcwU/hqdefault.jpg)](https://youtu.be/FoOLdqJKcwU)
+
 
 
 🎙 Personal Whisper Model Builder
